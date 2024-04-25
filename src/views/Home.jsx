@@ -36,7 +36,7 @@ const Home = () => {
               </motion.span>
               <span className="block text-blue-500 z-0 lg:inline">
                 <Typical
-                  steps={["Data Scientist", 1000, "Web Developer", 1000, "Photographer", 1000]}
+                  steps={["Data Scientist", 1000, "Web Developer", 1000, "Freelancer", 1000]}
                   loop={Infinity}
                 />
               </span>

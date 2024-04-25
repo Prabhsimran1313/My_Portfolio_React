@@ -17,7 +17,6 @@ const Navbar = () => {
       name: "About",
       route: "about",
     },
-    
     {
       name: "Services",
       route: "services",

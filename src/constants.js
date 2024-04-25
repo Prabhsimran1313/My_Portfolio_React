@@ -36,10 +36,11 @@ export const techStack = [
 ]
 
 
-export const contactLinks = [{ name: 'Stack Overflow', url: 'https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png', link: 'https://www.kaggle.com/prabhsimran1313' },
-{ name: 'Instagram', url: 'https://img.icons8.com/doodle/40/000000/instagram-new--v2.png', link: 'https://www.instagram.com/ik_prabh/' },
+export const contactLinks = [
+
 { name: 'Github', url: 'https://img.icons8.com/doodle/40/000000/github--v1.png', link :'https://github.com/Prabhsimran1313'},
-{ name: 'LinkedIn', url: 'https://img.icons8.com/doodle/40/000000/linkedin--v2.png', link: 'https://www.linkedin.com/in/prabhsimran-singh-b4816621b/'}
+{ name: 'LinkedIn', url: 'https://img.icons8.com/doodle/40/000000/linkedin--v2.png', link: 'https://www.linkedin.com/in/prabhsimran-singh-b4816621b/'},
+{ name: 'Instagram', url: 'https://img.icons8.com/doodle/40/000000/instagram-new--v2.png', link: 'https://www.instagram.com/ik_prabh/' },
 ]
 
 
@@ -68,6 +69,34 @@ export const serviceData = [
     elements in interactive designs, to optimize the user experience.`,
     img: "https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-backend-no-code-flaticons-flat-flat-icons.png"
   },
-
-
 ]
+
+export const educationData = [
+  {
+    degree: "B.tech- DataScience(HONOURS)",
+    institution: "Jain University,Bangalore,India",
+    duration: "2019 - 2023",
+  },
+  {
+    degree: "Class XII- PCMS",
+    institution: "Vidyodaya PU College",
+    duration: "2018 - 2019",
+  },
+  {
+    degree: "Class X",
+    institution: "Indrali English Medium High School",
+    duration: "2016 - 2017",
+  },
+]
+
+
+export const experienceData = [
+    {
+      date: "2045 - 2050",
+      position: "Web Developer",
+      company: "Soft Agency, San Francisco, CA",
+      description: "Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.",
+    },
+    // Add more experience data objects as needed
+  ]
+
